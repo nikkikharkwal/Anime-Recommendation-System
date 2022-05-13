@@ -1,9 +1,9 @@
-# Anime Recommendation System Project
-Deployed at https://animania-pwa.herokuapp.com
+# Anime Recommendation System 
+Deployed at [Nikki-ARS](https://animania-pwa.herokuapp.com)
 
 ### Resources
-Jikan (Unofficial MAL API), documentation can be found here: https://jikan.docs.apiary.io/#  
-Dataset, which will be used for training the model: https://www.kaggle.com/azathoth42/myanimelist
+Jikan (Unofficial MAL API), documentation can be found here: [MyAnimeList API](https://jikan.docs.apiary.io/#) 
+Dataset, which will be used for training the model: [MyAnimeList Dataset](https://www.kaggle.com/azathoth42/myanimelist)
 
 ## Algorithm: Matching Users to Recommendations
 ### User-Based Collaborative Filtering for a Personalized Recommendations List
@@ -31,3 +31,7 @@ We want to find a set of similar users and based on what similar users have rate
 - Frameworks: ReactJS (Front-End), Python Flask (Back-End)
 - Database: MongoDB
 - APIs/Other: JikanAPI, Google Sheets API, Firebase Authentication, Progressive Web App (PWA)
+
+## Authors
+
+- NIKHILESH SINGH
