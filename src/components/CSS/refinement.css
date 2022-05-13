@@ -1,0 +1,49 @@
+.refinement {
+    margin: 2%;
+}
+
+button.btn:hover, button.btn:active, button.btn:visited, button.btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.sort {
+    display: inline-block;
+    position: relative;
+}
+
+.genres {
+    display: inline-block;
+    position: relative;
+    margin-left: 2%;
+}
+
+.type {
+    display: inline-block;
+    position: relative;
+    margin-left: 2%;
+}
+
+.watch-filter {
+    display: inline-block;
+    position: relative;
+    margin-left: 2%;
+}
+
+.genre-btn {
+    margin: 5px;
+}
+
+.display-genre {
+    margin-top: 2%;
+}
+select {
+    background-color: #424242;
+    position: relative;
+    color: white;
+    outline: 0;
+}
+
+option:checked {
+    background-color: black;
+}

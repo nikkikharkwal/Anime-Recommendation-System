@@ -1,0 +1,167 @@
+.scroll {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    max-height: 80vh;
+}
+
+.anime-info {
+    padding:3%;
+}
+
+.anime-info .col .card{
+    max-width: 20%;
+}
+
+.anime-desc {
+    max-width: 80% !important;
+    overflow-wrap: break-word;
+}
+
+.add-prompt {
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    right: 10%;
+    z-index: 100;
+}
+.info-prompt {
+    position: absolute;
+    top: 0;
+    left: 30%;
+    right: 30%;
+    z-index: 100;
+}
+
+p {
+    font-size: small;
+}
+
+.full-scroll {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    max-height: 100vh;
+}
+
+.logo-icon {
+    display:inline-block;
+    margin-top: 0;
+    width: 90%;
+    min-width: 200px;
+}
+
+.suggestion {
+    position: absolute;
+    background-color: white;
+    z-index: 5;
+    width: 49.5%;
+    border: 0.5px solid lightgray;
+    border-top: 0;
+    min-width: 380px;
+}
+
+.image-text-sbs {
+    text-align: left;
+    margin: 1%;
+}
+
+.image-text-sbs .text {
+    margin-left: 2%;
+    display: inline-block;
+    max-width: 80%;
+}
+
+.image-text-sbs:hover {
+    background-color: lightgray;
+}
+
+.settings{
+    margin-right: 20%;
+    margin-top: 1%;
+    width: 15%;
+    min-width: 25px;
+}
+
+.log-out{
+    margin-right: 20%;
+    margin-top: 1%;
+    width: 15%;
+    min-width: 25px;
+}
+
+.user-icon{
+    margin-top: 1%;
+    width: 18%;
+    border-radius: 50%;
+    min-width: 25px;
+}
+
+.top-btns{
+    width:100%;
+    padding-left:3%;
+    margin:0 auto;
+    box-shadow: 0px 15px 15px -18px #111
+}
+
+.btn-top {
+    margin-left:1%;
+    border-radius: 20px !important;
+    margin-top:1.2%;
+    margin-bottom: 1%;
+}
+
+.search{
+    padding-left:5px;
+    height:29px;
+    width:92%;
+}
+
+.icons{
+    display: inline-block;
+    width: 15%;
+    min-width: 200px;
+    margin-bottom: 20px;
+}
+
+.logoImg{
+    display: inline-block;
+    width: 15%;
+    min-width: 220px;
+}
+
+.search-div{
+    margin: 1.6% 5% 15px;
+    display: inline-block;
+    width: 53%;
+    min-width: 380px;
+}
+
+.search-btn{
+    width: 8%;
+    height: 29px;
+    min-width: 30px;
+}
+
+.search-icon{
+    max-width: 30%;
+    min-width: 10px;
+    padding: 1%;
+}
+
+.nav-bar {
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    text-align: center;
+}
+
+.nav-bar .top-btns {
+    text-align: left;
+}
+
+.anime-img:hover{
+    opacity:22%;
+}
+
+.img-search {
+    max-width: 20% !important;
+}
