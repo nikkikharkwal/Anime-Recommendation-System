@@ -1,5 +1,5 @@
 # Anime Recommendation System 
-Deployed at [Nikki-ARS](https://animania-pwa.herokuapp.com)
+Check out the live demo : [Nikki-ARS](https://animania-pwa.herokuapp.com)
 
 ### Resources
 Jikan (Unofficial MAL API), documentation can be found here: [MyAnimeList API](https://jikan.docs.apiary.io/#) 
@@ -26,7 +26,7 @@ We want to find a set of similar users and based on what similar users have rate
 - Completed animes, each having a rating (1-10), will be used to train the dataset and predict similar users
 - Modify the number of recommendations given in the settings page
 
-## Tech Stack
+## Technologies Used
 - Languages: Python, JavaScript, HTML, CSS
 - Frameworks: ReactJS (Front-End), Python Flask (Back-End)
 - Database: MongoDB
